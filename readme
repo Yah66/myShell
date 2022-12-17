@@ -1,0 +1,25 @@
+
+***********************************AUTHOR******************************************
+			
+                                Yahia AL-Halaby
+***********************************************************************************
+SYNOPSIS:
+      ./myshell
+      Internal Commands
+      External Commands
+      Environment Variables
+      Batchfile
+      I/O Redirection
+      Background execution
+
+************************************************************************************
+
+COMMANDS::
+      cd <directory> - change the current default directory to <directory>
+      clr - clear the screen
+      dir <directory> - list the contents of directory <directory>
+      environ - list all the environment strings
+      echo <comment> - display <comment> on the display followed by a new line
+      help - display the user manual (readme, i.e. THIS FILE)
+      pause - pause operation of the shell until 'Enter' is pressed
+      quit - quit the shell
